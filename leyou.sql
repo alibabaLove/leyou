@@ -225,14 +225,6 @@ INSERT INTO `tb_brand` VALUES (325410, 'EEEEEEEEEEEEEEEEEE', '', 'B');
 INSERT INTO `tb_brand` VALUES (325415, 'DU', 'http://image.leyou.com/group1/M00/00/00/wKgTeVtwH-CAGNAyAAA2ObGPyPA529.png', 'D');
 INSERT INTO `tb_brand` VALUES (325416, 'DDD', '', 'D');
 INSERT INTO `tb_brand` VALUES (325418, '杜蕾斯', '', 'D');
-INSERT INTO `tb_brand` VALUES (325419, 'AAAA', '', 'A');
-INSERT INTO `tb_brand` VALUES (325420, 'ddddddddddxxxxxxxxxxxxxx', '', 'D');
-INSERT INTO `tb_brand` VALUES (325421, 'ddddd', '', 'D');
-INSERT INTO `tb_brand` VALUES (325422, 'DDDQQQQ', '', 'D');
-INSERT INTO `tb_brand` VALUES (325423, '1', '', 'A');
-INSERT INTO `tb_brand` VALUES (325424, '111', '', 'A');
-INSERT INTO `tb_brand` VALUES (325425, '测试2', '', 'S');
-INSERT INTO `tb_brand` VALUES (325426, '测试', '', 'A');
 
 -- ----------------------------
 -- Table structure for tb_category
